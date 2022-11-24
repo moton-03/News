@@ -28,6 +28,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlbmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/GitHub/Bird-Tools-News/src/News/News/Pages/VideoNews.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9OZXdzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/GitHub/Bird-Tools-News/src/News/News/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

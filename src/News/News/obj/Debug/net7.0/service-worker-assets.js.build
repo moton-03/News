@@ -869,11 +869,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-JciaxyWlzQYCEOj2++9v0MryBCiJhK7VGXuqI78CPgY=",
+      "hash": "sha256-IGqzHJsEnRNNiHDZlliETrOCmPI932HS\/zum\/NpV0Ck=",
       "url": "_framework\/News.dll"
     },
     {
-      "hash": "sha256-FciJ4XFYImPhWYA9wUxFzZxfNXfRGHxXxoZAVf7zthY=",
+      "hash": "sha256-o54fjijTV48KTMmiZnmr9KaygFG5d9GpVbH+NLuodm0=",
       "url": "_framework\/News.pdb"
     },
     {
@@ -881,9 +881,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-mYfSE404we5kyg6ihxkAd\/3DLI9w+lJphIDLMK9RdKc=",
+      "hash": "sha256-sLk1FsboTJJWfGhEjM5annPp2pOA25n2Rnq9+fBFIqY=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "hrCCDhVt"
+  "version": "ZaDbepT0"
 };
