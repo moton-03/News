@@ -198,16 +198,16 @@
       "mscorlib.dll": "sha256-pO\/W4w\/X+UjVMUMaxE5tYTQ0tILP+hmMu0zi0MSVBLc=",
       "netstandard.dll": "sha256-kj5cBXzwPYC+HD+P8+6VybY34JtEzjXjMIHXEI3hIiM=",
       "System.Private.CoreLib.dll": "sha256-Awk1lCiFfH7r9AAZfBtGqS8rhv6UJ5lUu3yF6HDH3tQ=",
-      "News.dll": "sha256-4zTduZtVM8wLUdY1EtIVvQFQOZZOFnEfXYEvbjxei7k="
+      "News.dll": "sha256-IU++xSABzmN0SlatN5wkAdFAYP5E9dZBD7CbdaKvpuw="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "News.pdb": "sha256-eZwEaSoVGhlYhzMzdtPCvfGV6ozPmWMYhnz3Q5nAuz0="
+      "News.pdb": "sha256-o5DcyU40Hy1yByFeRbD7g1oUEgnLKRtoKywkdxC7m54="
     },
     "runtime": {
-      "dotnet.7.0.0.zv5jgf7nj8.js": "sha256-2jNLve8W0sST0LAebgAc1IwSnGhkbjOKO8QPWWiJssI=",
+      "dotnet.7.0.0.ts3x2wmfjl.js": "sha256-2jNLve8W0sST0LAebgAc1IwSnGhkbjOKO8QPWWiJssI=",
       "dotnet.timezones.blat": "sha256-NFPG+mWpX1lpilZGC5d9W\/8+Yjx+6oW2ujo2u+HYW1Q=",
       "dotnet.wasm": "sha256-LI9mKk\/YPFYBcqG6w2XuRqIzLVo+C1xcOQQl8PmIFI0=",
       "icudt.dat": "sha256-DXO3tJHXDOV4qgW\/w8ooggAgZdAVpa5ZllYYAQWpYIk=",

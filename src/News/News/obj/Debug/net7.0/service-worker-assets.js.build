@@ -5,7 +5,7 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "hash": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7\/p4nS6D\/0=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
@@ -841,10 +841,6 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-2jNLve8W0sST0LAebgAc1IwSnGhkbjOKO8QPWWiJssI=",
-      "url": "_framework\/dotnet.7.0.0.zv5jgf7nj8.js"
-    },
-    {
       "hash": "sha256-NFPG+mWpX1lpilZGC5d9W\/8+Yjx+6oW2ujo2u+HYW1Q=",
       "url": "_framework\/dotnet.timezones.blat"
     },
@@ -869,11 +865,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-IGqzHJsEnRNNiHDZlliETrOCmPI932HS\/zum\/NpV0Ck=",
+      "hash": "sha256-4zTduZtVM8wLUdY1EtIVvQFQOZZOFnEfXYEvbjxei7k=",
       "url": "_framework\/News.dll"
     },
     {
-      "hash": "sha256-o54fjijTV48KTMmiZnmr9KaygFG5d9GpVbH+NLuodm0=",
+      "hash": "sha256-eZwEaSoVGhlYhzMzdtPCvfGV6ozPmWMYhnz3Q5nAuz0=",
       "url": "_framework\/News.pdb"
     },
     {
@@ -881,9 +877,13 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-sLk1FsboTJJWfGhEjM5annPp2pOA25n2Rnq9+fBFIqY=",
+      "hash": "sha256-KNB1Dl2VK3FIn4HKuGiNmOVR9exkte0MHcttPiPl\/sY=",
       "url": "_framework\/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-2jNLve8W0sST0LAebgAc1IwSnGhkbjOKO8QPWWiJssI=",
+      "url": "_framework\/dotnet.7.0.0.ts3x2wmfjl.js"
     }
   ],
-  "version": "ZaDbepT0"
+  "version": "tNS3BIlt"
 };

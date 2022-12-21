@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\Bird-Tools-News\\src\\News\\News\\News.csproj": {}
+    "C:\\GitHub\\News\\src\\News\\News\\News.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\Bird-Tools-News\\src\\News\\News\\News.csproj": {
+    "C:\\GitHub\\News\\src\\News\\News\\News.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\Bird-Tools-News\\src\\News\\News\\News.csproj",
+        "projectUniqueName": "C:\\GitHub\\News\\src\\News\\News\\News.csproj",
         "projectName": "News",
-        "projectPath": "C:\\GitHub\\Bird-Tools-News\\src\\News\\News\\News.csproj",
-        "packagesPath": "C:\\Users\\kirar\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\Bird-Tools-News\\src\\News\\News\\obj\\",
+        "projectPath": "C:\\GitHub\\News\\src\\News\\News\\News.csproj",
+        "packagesPath": "C:\\Users\\kira_\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\News\\src\\News\\News\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kirar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kira_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -53,6 +53,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "PublishSPAforGitHubPages.Build": {
+              "target": "Package",
+              "version": "[2.0.2, )"
             }
           },
           "imports": [
